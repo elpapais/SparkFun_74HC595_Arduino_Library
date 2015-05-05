@@ -1,7 +1,7 @@
 SparkFun 74HC595 Arduino Library
 ========================================
 
-![SparkFun Shift Register Breakout -74HC595](URL for picture of part)
+![SparkFun Shift Register Breakout -74HC595](https://cdn.sparkfun.com//assets/parts/5/4/7/7/10680-04.jpg)
 
 [*SparkFun Shift Register Breakout -74HC595 (BOB-10680)*](https://www.sparkfun.com/products/10680)
 
